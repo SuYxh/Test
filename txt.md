@@ -10,10 +10,6 @@ vscode git use!
 
 yxh
 
-<<<<<<< HEAD
 no
 
 yxh fenzhi  2
-=======
-no love
->>>>>>> master
